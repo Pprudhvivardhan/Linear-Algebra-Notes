@@ -1,6 +1,6 @@
 # Linear-Algebra-Notes
 
-**Linear Algebra: The Foundation of Data Science 📊**
+**Linear Algebra: The Foundation of Data Science 📈 📊**
 
 Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vectors. It is a fundamental tool for data scientists, as it is used in many different data science tasks, such as:
 
